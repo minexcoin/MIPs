@@ -9,3 +9,4 @@ First review [MIP-0](MIPS/mip-0.md). Then clone the repository and add your MIP 
 | ID                                                  |Title                                                                                | Author                | Type/Layer       | Status    |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------  | ------------| ----------|
 | [0](MIPS/mip-0.md)      | MIP Purpose and Guidelines             | Roman Hulenko       | Meta        | Active  |
+| [1](MIPS/mip-1.md)      | Validation of MinexBank address and commission             | Roman Hulenko       | Standard/Consensus(Soft Fork)        | Final  |
